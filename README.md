@@ -1,1 +1,3 @@
 # aplicacao-de-metodos-e-javaOO
+
+Descubra o incrível mundo dos métodos na programação! Eu te convido a explorar uma coleção incrível de exercícios sobre métodos disponíveis no GitHub. Aqui, você encontrará uma variedade de desafios cuidadosamente elaborados para aprimorar suas habilidades de programação. Abrace a oportunidade de aprofundar seu conhecimento sobre a criação de métodos eficientes, a modularização do seu código e a solução elegante de problemas complexos. Junte-se a uma comunidade de entusiastas de programação, compartilhe seus resultados e mergulhe em uma jornada de aprendizado colaborativo. Prepare-se para expandir suas habilidades de programação enquanto se diverte com esses empolgantes exercícios sobre métodos no GitHub!
